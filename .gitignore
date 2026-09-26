@@ -1,0 +1,20 @@
+# Swift Package Manager
+/.build/
+/.swiftpm/
+/Packages/
+Package.resolved.bak
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+build/
+
+# Node (release tooling only)
+/node_modules/
+
+# OS and IDE
+.DS_Store
+/.idea/
+/.vscode/
